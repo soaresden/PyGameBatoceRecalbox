@@ -27,11 +27,17 @@
     <Folder Include="images\" />
     <Folder Include="images\background\" />
     <Folder Include="images\icons\" />
+    <Folder Include="fonts\" />
     <Folder Include="sounds\" />
     <Folder Include="sounds\music\" />
     <Folder Include="sounds\sfx\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="fonts\font-EquinoxRg.ttf" />
+    <Content Include="fonts\font-vagRounded-BT-Normal.ttf" />
+    <Content Include="fonts\font-OpenSans-Light.ttf" />
+    <Content Include="fonts\font-OpenSans-Regular.ttf" />
+    <Content Include="fonts\font-OpenSans-SemiBold.ttf" />
     <Content Include="images\background\back720.png" />
     <Content Include="images\icons\logoquizz.png" />
     <Content Include="images\icons\Mario Music.png" />
@@ -41,11 +47,14 @@
     <Content Include="images\icons\musicstop.png" />
     <Content Include="images\icons\pad.png" />
     <Content Include="images\icons\Quizz.png" />
-    <Content Include="sounds\music\-001 Video Game Music Mix Session 1.ogg" />
-    <Content Include="sounds\music\-002 Video Game Music Mix Session 2.ogg" />
-    <Content Include="sounds\music\-003 Video Game Music Mix Session 3.ogg" />
-    <Content Include="sounds\music\-004 Video Game Music Mix Session 4.ogg" />
-    <Content Include="sounds\music\-005 Video Game Music Mix Session 5.ogg" />
+    <Content Include="sounds\music\001 Video Game Music Mix Session 1.ogg" />
+    <Content Include="sounds\music\002 Video Game Music Mix Session 2.ogg" />
+    <Content Include="sounds\music\003 Video Game Music Mix Session 3.ogg" />
+    <Content Include="sounds\music\004 Video Game Music Mix Session 4.ogg" />
+    <Content Include="sounds\music\005 Video Game Music Mix Session 5.ogg" />
+    <Content Include="sounds\sfx\ok.wav" />
+    <Content Include="sounds\sfx\selection.wav" />
+    <Content Include="sounds\sfx\back.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
