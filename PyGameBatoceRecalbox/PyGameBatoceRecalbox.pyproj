@@ -52,6 +52,8 @@
     <Content Include="sounds\music\003 Video Game Music Mix Session 3.ogg" />
     <Content Include="sounds\music\004 Video Game Music Mix Session 4.ogg" />
     <Content Include="sounds\music\005 Video Game Music Mix Session 5.ogg" />
+    <Content Include="sounds\sfx\answered.wav" />
+    <Content Include="sounds\sfx\foundit.mp3" />
     <Content Include="sounds\sfx\ok.wav" />
     <Content Include="sounds\sfx\selection.wav" />
     <Content Include="sounds\sfx\back.wav" />

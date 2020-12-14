@@ -27,6 +27,8 @@ FONT_SEMIBOLD = "fonts/OpenSans-SemiBold.ttf"
 SFX_BACK = "sounds/sfx/back.wav"
 SFX_OK = "sounds/sfx/ok.wav"
 SFX_SELECTION = "sounds/sfx/selection.wav"
+SFX_ANSWERED = "sounds/sfx/selection.wav"
+SFX_FOUNDIT = "sounds/sfx/selection.wav"
 
 
 CONFIG_FILE = 'config.json'
